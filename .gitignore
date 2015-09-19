@@ -3,6 +3,7 @@
 /db
 /deps
 /*.ez
+priv/static/js/bundle.js
 
 # Generate on crash by the VM
 erl_crash.dump
